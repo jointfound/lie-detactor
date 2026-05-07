@@ -1,0 +1,6 @@
+{
+  "name": "Veritas-AI Engine",
+  "description": "An AI-powered multimodal behavioral analysis system that estimates stress and deception probability using voice and facial micro-expression analysis.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
